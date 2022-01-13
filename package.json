@@ -1,0 +1,28 @@
+{
+  "name": "gulp-webp-html-fixed",
+  "version": "1.0.0",
+  "description": "Move img elements inside <picture> and change its src extension to webp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jetzeny/gulp-webp-html-fixed.git"
+  },
+  "keywords": [
+    "gulp",
+    "webp",
+    "html",
+    "fix",
+    "extension",
+    "img",
+    "picture"
+  ],
+  "author": "grindingeorge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jetzeny/gulp-webp-html-fixed/issues"
+  },
+  "homepage": "https://github.com/jetzeny/gulp-webp-html-fixed#readme"
+}
